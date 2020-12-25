@@ -1,0 +1,50 @@
+System Name        : Windows_NT
+Machine Name       : PC0108
+User Name          : Rainer
+Source System      : ACIS
+Destination System : GENERIC
+Start Time         : Thu Feb 25 23:03:54 2010
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : SaveVersion : 120
+Message : Generic.Brep.SaveMode : 0
+Message : DoCheckGenericModel : false
+Message : OverrideFaceColorWithBodyColor : false
+Message : DoCheckAcisModel : false
+Message : Healing : true
+Message : SaveMajorVersion : 15
+Message : SaveMinorVersion : 0
+Message : Acis.Brep.SaveMode : true
+Message : DoSplineResurface : true
+Message : TranslateAttributes : false
+Message : TranslateLayersAndFilters : false
+Message : TranslateFreePoints : false
+Message : ImportScaleFactor : 0.001000
+Message : ExportScaleFactor : 1000.000000
+Message : SimplifyBody : false
+Message : ConvertOffsetSurfacesToSpline : false
+Message : Representation : BRep
+Message : ===========================
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-------------------------------Conversion Summary-------------------------------
+No. of Assemblies                         :    0
+No. of Solid Bodies                       :    0
+No. of Trim Bodies                        :    3
+No. of Wire Bodies                        :    0
+No. of Point Bodies                       :    0
+No. of Mixed Bodies		 : 0
+No. of Point Bodies        : 0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Finish Time : Thu Feb 25 23:03:59 2010
+
+Translation Result : Success
+--------------------------------------------------------------------------------

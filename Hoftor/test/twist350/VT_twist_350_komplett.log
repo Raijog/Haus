@@ -1,0 +1,179 @@
+Parasolid -> SE
+============================================================
+Dateiname: D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_twist_350_komplett.x_t
+Parasolid-Dateiversion: 17.0.244
+Baugruppe 0 beginnen
+Gesamtteile :  13
+Baugruppen: 4
+Volumenkörper: 9
+Flächen:  0
+============================================================
+Baugruppe 1 beginnen
+Gesamtteile :  1
+Baugruppen: 0
+Volumenkörper: 1
+Flächen:  0
+============================================================
+Volumenkörper 1 of 1 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_14700V000_GehäuseUnterteil_HousingLowerPart_Index_6.par wurde erstellt
+VT_14700V000_GehäuseUnterteil_HousingLowerPart_Index_6.par:1 wird platziert
+============================================================
+Baugruppe 1 beenden
+============================================================
+SE Assembly-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_twist_350_komplett_0.asm wurde erstellt
+VT_twist_350_komplett_0.asm:1 wird platziert
+============================================================
+Baugruppe 2 beginnen
+Gesamtteile :  1
+Baugruppen: 0
+Volumenkörper: 1
+Flächen:  0
+============================================================
+Volumenkörper 1 of 1 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_14551V001_Schutzrohr_mit_Trennsteg_Al_twist_XL.par wurde erstellt
+VT_14551V001_Schutzrohr_mit_Trennsteg_Al_twist_XL.par:1 wird platziert
+============================================================
+Baugruppe 2 beenden
+============================================================
+SE Assembly-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_twist_350_komplett_2.asm wurde erstellt
+VT_twist_350_komplett_2.asm:1 wird platziert
+============================================================
+Baugruppe 3 beginnen
+Gesamtteile :  2
+Baugruppen: 0
+Volumenkörper: 2
+Flächen:  0
+============================================================
+Volumenkörper 1 of 2 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_12293V000_Einsatz_Schubrohr_twist_200E_Stopfen mit Querbohrung 17mm.par wurde erstellt
+VT_12293V000_Einsatz_Schubrohr_twist_200E_Stopfen mit Querbohrung 17mm.par:1 wird platziert
+============================================================
+Volumenkörper 2 of 2 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_14710V001_Schubrohr_zum_Umspritzen_650mm_Variante B 6 Lochreihen.par wurde erstellt
+VT_14710V001_Schubrohr_zum_Umspritzen_650mm_Variante B 6 Lochreihen.par:1 wird platziert
+============================================================
+Baugruppe 3 beenden
+============================================================
+SE Assembly-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_twist_350_komplett_4.asm wurde erstellt
+VT_twist_350_komplett_4.asm:1 wird platziert
+============================================================
+Baugruppe 4 beginnen
+Gesamtteile :  4
+Baugruppen: 2
+Volumenkörper: 2
+Flächen:  0
+============================================================
+Baugruppe 5 beginnen
+Gesamtteile :  3
+Baugruppen: 0
+Volumenkörper: 3
+Flächen:  0
+============================================================
+Volumenkörper 1 of 3 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\1022-23-01_AF0_4.1.1_05.par wurde erstellt
+1022-23-01_AF0_4.1.1_05.par:1 wird platziert
+============================================================
+Volumenkörper 2 of 3 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\1022-23-01_AF1_4.1.1_05.par wurde erstellt
+1022-23-01_AF1_4.1.1_05.par:1 wird platziert
+============================================================
+Volumenkörper 3 of 3 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\Teil2^14032V000_Staubkappe_Hebelschloss_EMKA.par wurde erstellt
+Teil2^14032V000_Staubkappe_Hebelschloss_EMKA.par:1 wird platziert
+============================================================
+Baugruppe 5 beenden
+============================================================
+SE Assembly-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_twist_350_komplett_8.asm wurde erstellt
+VT_twist_350_komplett_8.asm:1 wird platziert
+============================================================
+Baugruppe 6 beginnen
+Gesamtteile :  2
+Baugruppen: 1
+Volumenkörper: 1
+Flächen:  0
+============================================================
+Baugruppe 7 beginnen
+Gesamtteile :  4
+Baugruppen: 0
+Volumenkörper: 4
+Flächen:  0
+============================================================
+Volumenkörper 1 of 4 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\14723V000_Burg H2A211_90 SA ( R )_E_05.par wurde erstellt
+14723V000_Burg H2A211_90 SA ( R )_E_05.par:1 wird platziert
+============================================================
+Volumenkörper 2 of 4 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\14723V000_Burg H2A211_90 SA ( R )_E_05_15.par wurde erstellt
+14723V000_Burg H2A211_90 SA ( R )_E_05_15.par:1 wird platziert
+============================================================
+Volumenkörper 3 of 4 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\14723_1-1_Schlüssel_05.par wurde erstellt
+14723_1-1_Schlüssel_05.par:1 wird platziert
+============================================================
+Volumenkörper 4 of 4 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\14723_1-2_Klammer_Schloss_05.par wurde erstellt
+14723_1-2_Klammer_Schloss_05.par:1 wird platziert
+============================================================
+Baugruppe 7 beenden
+============================================================
+SE Assembly-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_twist_350_komplett_13.asm wurde erstellt
+VT_twist_350_komplett_13.asm:1 wird platziert
+============================================================
+Volumenkörper 1 of 2 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\14723_2_Riegel_400E9544.par wurde erstellt
+14723_2_Riegel_400E9544.par:1 wird platziert
+============================================================
+Baugruppe 7 beenden
+============================================================
+SE Assembly-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_twist_350_komplett_12.asm wurde erstellt
+VT_twist_350_komplett_12.asm:1 wird platziert
+============================================================
+Volumenkörper 1 of 4 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\14721V000_Haube_Cover_Index_4.par wurde erstellt
+14721V000_Haube_Cover_Index_4.par:1 wird platziert
+============================================================
+Volumenkörper 2 of 4 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\14722V000_Logoplatte_LogoPlate_Index_2.par wurde erstellt
+14722V000_Logoplatte_LogoPlate_Index_2.par:1 wird platziert
+============================================================
+Baugruppe 7 beenden
+============================================================
+SE Assembly-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\VT_twist_350_komplett_7.asm wurde erstellt
+VT_twist_350_komplett_7.asm:1 wird platziert
+============================================================
+Volumenkörper 1 of 13 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\50734_Schraube_für_Kunststoffe_Delta_6x25.par wurde erstellt
+50734_Schraube_für_Kunststoffe_Delta_6x25.par:1 wird platziert
+============================================================
+Volumenkörper 2 of 13 wird verarbeitet
+Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\50734_Schraube_für_Kunststoffe_Delta_6x25.par wird wiederholt verwendet
+50734_Schraube_für_Kunststoffe_Delta_6x25.par:2 wird platziert
+============================================================
+Volumenkörper 3 of 13 wird verarbeitet
+Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\50734_Schraube_für_Kunststoffe_Delta_6x25.par wird wiederholt verwendet
+50734_Schraube_für_Kunststoffe_Delta_6x25.par:3 wird platziert
+============================================================
+Volumenkörper 4 of 13 wird verarbeitet
+Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\50734_Schraube_für_Kunststoffe_Delta_6x25.par wird wiederholt verwendet
+50734_Schraube_für_Kunststoffe_Delta_6x25.par:4 wird platziert
+============================================================
+Volumenkörper 5 of 13 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\14708V000_Gehäusedeckel_vorne_HousingCover_FrontSide_Index_3.par wurde erstellt
+14708V000_Gehäusedeckel_vorne_HousingCover_FrontSide_Index_3.par:1 wird platziert
+============================================================
+Volumenkörper 6 of 13 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\12215V00X_Deckel_Schutzrohr_geteilter Deckel.par wurde erstellt
+12215V00X_Deckel_Schutzrohr_geteilter Deckel.par:1 wird platziert
+============================================================
+Volumenkörper 7 of 13 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\12229_Schraube_Taptite_M4x14.par wurde erstellt
+12229_Schraube_Taptite_M4x14.par:1 wird platziert
+============================================================
+Volumenkörper 8 of 13 wird verarbeitet
+Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\12229_Schraube_Taptite_M4x14.par wird wiederholt verwendet
+12229_Schraube_Taptite_M4x14.par:2 wird platziert
+============================================================
+Volumenkörper 9 of 13 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\12843_M3x8_DIN7500C1.par wurde erstellt
+12843_M3x8_DIN7500C1.par:1 wird platziert
+============================================================

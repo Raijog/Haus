@@ -1,0 +1,50 @@
+Parasolid -> SE
+============================================================
+Dateiname: D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\578_Steuerung_twist.x_t
+Parasolid-Dateiversion: 17.0.244
+Baugruppe 0 beginnen
+Gesamtteile :  10
+Baugruppen: 0
+Volumenkörper: 10
+Flächen:  0
+============================================================
+Volumenkörper 1 of 10 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\90202_Gehäuse_Unterteil_12274_12270.par wurde erstellt
+90202_Gehäuse_Unterteil_12274_12270.par:1 wird platziert
+============================================================
+Volumenkörper 2 of 10 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\90201_Gehäuse_Oberteil_12274_12270.par wurde erstellt
+90201_Gehäuse_Oberteil_12274_12270.par:1 wird platziert
+============================================================
+Volumenkörper 3 of 10 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\30015_Verschraubung_M16_FG_ohne Mutter 30017.par wurde erstellt
+30015_Verschraubung_M16_FG_ohne Mutter 30017.par:1 wird platziert
+============================================================
+Volumenkörper 4 of 10 wird verarbeitet
+Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\30015_Verschraubung_M16_FG_ohne Mutter 30017.par wird wiederholt verwendet
+30015_Verschraubung_M16_FG_ohne Mutter 30017.par:2 wird platziert
+============================================================
+Volumenkörper 5 of 10 wird verarbeitet
+Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\30015_Verschraubung_M16_FG_ohne Mutter 30017.par wird wiederholt verwendet
+30015_Verschraubung_M16_FG_ohne Mutter 30017.par:3 wird platziert
+============================================================
+Volumenkörper 6 of 10 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\30016_PG20_ohne Mutter 30018.par wurde erstellt
+30016_PG20_ohne Mutter 30018.par:1 wird platziert
+============================================================
+Volumenkörper 7 of 10 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\30017_kontermutter_m16_fg.par wurde erstellt
+30017_kontermutter_m16_fg.par:1 wird platziert
+============================================================
+Volumenkörper 8 of 10 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\30018_Kontermutter_M20_FG.par wurde erstellt
+30018_Kontermutter_M20_FG.par:1 wird platziert
+============================================================
+Volumenkörper 9 of 10 wird verarbeitet
+Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\30017_kontermutter_m16_fg.par wird wiederholt verwendet
+30017_kontermutter_m16_fg.par:2 wird platziert
+============================================================
+Volumenkörper 10 of 10 wird verarbeitet
+Datei D:\02_Users\Rainer\Haus Hannover\Zeichnungen\3d-Haupthaus\Plan_2019_2\Hoftor\test\twist350\30017_kontermutter_m16_fg.par wird wiederholt verwendet
+30017_kontermutter_m16_fg.par:3 wird platziert
+============================================================
